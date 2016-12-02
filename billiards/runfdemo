@@ -1,0 +1,5 @@
+#!/usr/bin/fish
+# billiard
+
+
+./bin/fdemo (pwd)"/scene.conf" (pwd)"/fdemo/fdemo.conf" $argv

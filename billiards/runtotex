@@ -1,0 +1,5 @@
+#!/usr/bin/fish
+# billiard
+
+
+./bin/totex (pwd)"/scene.conf" (pwd)"/totex/totex.conf" > ./pic.tex
